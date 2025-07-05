@@ -1,0 +1,37 @@
+## RAISE YOUR HACK Hackathon Requirements
+
+### Core Requirements (Required for All Tracks — except Qubic):
+*   Groq API Integration – Every project must integrate the Groq API.
+*   Llama Models – Each project must use at least one of the Llama models.
+
+### Optional Technical Components (Encouraged):
+*   MCP
+*   Compound-beta
+*   Groq Speech Models
+
+### Partner Technologies to Explore:
+*   Snowflake Inc.
+*   Fetch.ai (uAgents, Agentverse, ASI:One)
+
+### Hackathon Tracks:
+Participants must form teams and indicate their top 3 preferred Industry Tracks. Projects must address the specific use case for their assigned Track.
+
+Available Tracks:
+*   Qualcomm Track (No new teams accepted, can join existing teams)
+*   Prosus Track
+*   Vultr Track
+*   Qubic Track (Groq + Llama not required)
+*   Conduct(or) & RAISE Track
+
+### Tech Partners (Bonus Prize Opportunities):
+*   Groq (mandatory for all non-Qubic Tracks)
+*   Coral Protocol
+*   Fetch AI
+*   Snowflake
+
+### Challenge: Share Your Project on X
+Post about your submitted hackathon project on X, explain its impact, and tag @lablabai, @raisesummit, and any partners whose Track or tech you used.
+
+### Deadline:
+Post by July 13th — Winners announced July 15th!
+
